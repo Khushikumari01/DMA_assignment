@@ -1,8 +1,3 @@
-# Naive-Bayes-Classifier
-What is Naive Bayes classifiers?
-Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other. To start with, let us consider a dataset.
+Naive Bayes classifiers constitute a family of classification algorithms grounded in Bayes' Theorem, encompassing a range of techniques rather than a singular algorithm. These algorithms share a fundamental principle wherein each pair of features used for classification is assumed to be independent of one another. Despite its simplicity, the Naive Bayes classifier stands out as one of the most straightforward yet effective tools for constructing machine learning models with swift prediction capabilities.
 
-One of the most simple and effective classification algorithms, the Naïve Bayes classifier aids in the rapid development of machine learning models with rapid prediction capabilities.
-
-Why it is called Naive Bayes?
-The “Naive” part of the name indicates the simplifying assumption made by the Naïve Bayes classifier. The classifier assumes that the features used to describe an observation are conditionally independent, given the class label. The “Bayes” part of the name refers to Reverend Thomas Bayes, an 18th-century statistician and theologian who formulated Bayes’ theorem.
+The nomenclature "Naive" in Naive Bayes stems from the classifier's simplifying assumption. Specifically, it assumes that, given the class label, the features characterizing an observation are conditionally independent of each other. This assumption significantly simplifies the modeling process and computation, making Naive Bayes particularly adept at handling large datasets and achieving quick predictions. The term "Bayes" in the name pays homage to Reverend Thomas Bayes, an 18th-century statistician and theologian who formulated Bayes' theorem, the foundational concept behind these classifiers..
